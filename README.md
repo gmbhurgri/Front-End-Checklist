@@ -26,7 +26,7 @@ It is based on Front-End developers' years of experience, with the additions com
 9. **[Accessibility](#accessibility)**
 10. **[SEO](#seo)**
 
-## How to use?
+## How to use? (Change Here)
 
 All items in the **Front-End Checklist** are required for the majority of the projects, but some elements can be omitted or are not essential (in the case of an administration web app, you may not need RSS feed for example). We choose to use 3 levels of flexibility:
 
